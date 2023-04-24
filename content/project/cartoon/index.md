@@ -1,6 +1,6 @@
 ---
 title: Cartoon Face Generator
-summary: Write about your project here...
+summary: how to modify
 tags:
   - CV
 date: 2022-01-01
