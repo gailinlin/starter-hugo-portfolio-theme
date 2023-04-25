@@ -10,6 +10,7 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: categories
-    url: /
+  - name: Categories
+    parent: tags
+    url: tags/academic/
     weight: 10
