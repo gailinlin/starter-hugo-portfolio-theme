@@ -10,3 +10,10 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: About
+    url: about/
+    weight: 20
