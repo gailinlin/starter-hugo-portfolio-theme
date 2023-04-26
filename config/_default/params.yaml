@@ -4,6 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 ---
+# Appearance
+-
+-appearance
+-  theme_day: custom
+-  theme_night: custom
+-  font: minimal
+-  font_size: L
+
 # Page title
 title: My page
 # Page type - we want a landing page (such as a homepage)
