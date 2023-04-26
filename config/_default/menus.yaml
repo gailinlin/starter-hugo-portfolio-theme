@@ -12,5 +12,5 @@ main:
     weight: 20
   - name: tags
     parent: Categories
-    url: categories/academic/
+    url: /#https://r.tiid.org/
     weight: 10
