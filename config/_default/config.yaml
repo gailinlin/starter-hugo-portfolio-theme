@@ -52,7 +52,7 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
-  # tags: '/tag/:slug/'
+  # diary: '/tag/:slug/'
   diary: 'blocks/partials/layouts/'
   categories: '/category/:slug/'
 disableAliases: true
@@ -65,7 +65,7 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  tag: diary
+  tag: tags
   category: categories
   author: authors
 markup:
@@ -75,7 +75,7 @@ related:
   includeNewer: true
   toLower: true
   indices:
-    - name: diary
+    - name: tags
       weight: 100
     - name: categories
       weight: 70
