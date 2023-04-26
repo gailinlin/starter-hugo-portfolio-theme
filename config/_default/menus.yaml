@@ -12,5 +12,5 @@ main:
     weight: 20
   - name: tags
     parent: Categories
-    url: /#https://r.tiid.org/
+    url: blocks/partials/layouts/
     weight: 10
