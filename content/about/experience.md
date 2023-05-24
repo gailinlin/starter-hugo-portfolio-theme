@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Analysing
-        ![< img scr=>](/assets/media/icon.png)
+        ![](/assets/media/icon.png)
         * Modelling
         * Deploying
 
